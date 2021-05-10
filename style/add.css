@@ -91,6 +91,8 @@
         padding: 1.5vw 2vw 1.5vw 2vw;
         font-size: 1.3em;
         resize: none;
+        white-space: nowrap;
+        overflow-y: hidden;
     }
     .btn_add_pic {
         margin-bottom: 3vw;
