@@ -122,9 +122,13 @@
         font-size: 80%;
         color: #dc3545;
     }
-    .error_desc {
+    .error_emp_desc {
         left: 46vw;
         top: 28.5vw;
+    }
+    .error_emp_img {
+        left: 17.5vw;
+        top: 40vw;
     }
     .error_image {
         left: 17.5vw;
